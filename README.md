@@ -34,3 +34,5 @@ Weather Now is a simple yet powerful weather application that provides users wit
 
 To get started with Weather Now, simply clone the repository to your local machine:
 
+```bash
+git clone https://github.com/yourusername/weather-now.git
